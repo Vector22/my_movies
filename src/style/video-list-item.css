@@ -1,0 +1,8 @@
+.list-group-item:hover {
+    background-color: #E0E0E0;
+}
+
+.media-body {
+    padding-top: 20px;
+    text-align: center;
+}
