@@ -123,20 +123,7 @@ class App extends Component {
         <header className="row">
           <SearchBar callback={this.receiveText} />
         </header>
-        <section>
-          <p>
 
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </section>
 
         <div className="row app-body">
           <section className="col-md-8 main-video">
